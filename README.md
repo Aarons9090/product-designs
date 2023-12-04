@@ -3,7 +3,7 @@ In this repo you can find some of my UI designs. This list will be updated proba
 
 
 ## *Limitless* - credit card company
-The idea was to create a design of a credit card company's landing page. However, I don't think the first view and the rest of the landing page really fit together.
+The idea was to create a design for a credit card company's landing page. However, I don't think the first view and the rest of the landing page really fit together.
 
 [Link to Figma Proto](https://www.figma.com/proto/OaNplYxwFWuZUmJM3KuMF5/limitless?type=design&node-id=16-83&t=w1wjj4IydPQwKno0-0&scaling=min-zoom&page-id=0:1)
 
