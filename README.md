@@ -13,4 +13,6 @@ Simple waiting list page for an upcoming service
 [Link to Figma Proto](https://www.figma.com/proto/GrmXp1ODbt2G48WdoUhGRf/Untitled?type=design&node-id=1-2&t=zr63g8AM0VSEOL46-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 ## Personal portfolio website
-Coming soon
+Early prototype of my personal portfolio website
+
+[Link to Figma Proto](https://www.figma.com/proto/D7kSGKBMCrC9KXU6kypqcX/PORTFOLIO?type=design&node-id=301-2&t=4pJ0UjzSOwFaNvA1-0&scaling=min-zoom&page-id=0%3A1)
