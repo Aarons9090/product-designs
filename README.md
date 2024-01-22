@@ -1,5 +1,5 @@
 # Product Designs
-In this repo you can find some of my product designs. This list will be updated probably as long as my portfolio website is not finished. These designs are often work in progress. All Figma protos can be viewed without logging in or downloading. Feedback on designs is appreaciated.
+In this repo you can find some of my product designs. This list will be updated probably as long as my portfolio website is not finished. These designs are often work in progress. All Figma protos can be viewed without logging in or downloading. Feedback on designs are appreaciated.
 
 
 ## *Limitless* - Credit card company
